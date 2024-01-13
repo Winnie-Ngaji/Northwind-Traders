@@ -27,6 +27,8 @@ For this project, I used the following skills and tools;
 ___
 # DATA TRANSFORMATION
 After importing the data to Power BI, I did some transformations to add a date table for efficient time analysis. 
+![](images/Calendar_table.PNG)   
+
 ___
 # DATA MODELLING
 I have 7 tables and loading the dataset creates an automatic model, but I will be making adjustments to the auto model created by Power BI by changing the 'cross-filter direction' to 'Both' to allow more dynamic filtering. This model can be seen in the schema below
