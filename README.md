@@ -43,8 +43,11 @@ This report contains 2 pages/ dashboard
 ![](images/Northwind_sales_analysis_dashboard.PNG)   
 
 ## OPERATIONAL ANALYSIS DASHBOARD
-This gives an overview and general information on Operations like Average shipping time, Number of orders handled by top 5 employees, the impact of discontinued products, etc.
-![](images/Northwind_operational_analysis_dashboard.PNG)   
+This gives an overview and general information on Operations like Average shipping time, Number of orders handled by the top 5 employees, the impact of discontinued products, etc.
+![](images/Northwind_operational_analysis_dashboard.PNG)  
 
+# LINK TO DASHBOARD 
+
+# BUSINESS QUESTIONS AND INSIGHTS
 ___
 # RECOMMENDATION AND CONCLUSION
