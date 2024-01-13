@@ -18,13 +18,21 @@ I will be using the provided dataset to understand customer spending patterns, m
 7. Explore shipping interval from order date
 ___
 # SKILLS DEMONSTRATED
-I utilized Excel, SQL and Power BI to derive actionable insights from the sales and order datasets, providing a comprehensive analysis of Northwind Traders' sales and operations.
+For this project, i used the following skills and tools;
+  ### EXCEL: I leveraged Excel for data cleaning; removing duplicate values, correcting formatting issues, handling missing data through imputation or deletion, and standardizing data formats for consistency, and transformation to ensure data quality.
+  
+  ### SQL: After cleaning and transforming my data on Excel, I created tables and imported the dataset into Postgresql for further analysis. I Utilized SQL queries to extract relevant information from the Northwind Traders database for in-depth analysis. I also integrated data from multiple tables using SQL join operations to establish meaningful relationships between different datasets.
+  
+  ### Power BI: After loading the dataset into Power BI, I used measures and DAX to aggreagate the necessary data I needed. I also created an interactive dashboard to answer the business questions stated in the project objective section
 ___
 # DATA TRANSFORMATION
-
+After importing the data to Power BI, I did some transformations to add a date table for efficient time analysis. 
 ___
 # DATA MODELLING
+I have 7 tables and loading the dataset creates an automatic model, but i will be making adjustments to the auto model created by Power BI by changing the 'the cross -filter direction' to 'Both' to allow a more dynamic filtering. This model can be seen in the schema below
+![](images/NW_Logo.png)
 
+  
 ___
 
 # ANALYSIS AND VISUALIZATION
