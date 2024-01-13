@@ -39,6 +39,7 @@ ___
 # ANALYSIS AND VISUALIZATION
 This report contains 2 pages/ dashboard
 ## Sales
+![](images/Northwind_sales_analysis_dashboard.PNG)   
 
 ___
 # RECOMMENDATION AND CONCLUSION
