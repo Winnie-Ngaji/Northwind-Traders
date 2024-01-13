@@ -38,7 +38,8 @@ ___
 
 # ANALYSIS AND VISUALIZATION
 This report contains 2 pages/ dashboard
-## Sales
+## SALES
+  This gives an overview and general information on sales like Total orders, Average order value, total customers, sales trends, best-selling products, top spending customers, etc.
 ![](images/Northwind_sales_analysis_dashboard.PNG)   
 
 ___
