@@ -37,6 +37,8 @@ I have 7 tables and loading the dataset creates an automatic model, but I will b
 ___
 
 # ANALYSIS AND VISUALIZATION
+This report contains 2 pages/ dashboard
+## Sales
 
 ___
 # RECOMMENDATION AND CONCLUSION
