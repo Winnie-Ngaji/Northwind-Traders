@@ -13,3 +13,13 @@ ___
 I utilized SQL and Power BI to derive actionable insights from the sales and order datasets, providing a comprehensive analysis of Northwind Traders' sales and operations.
 ___
 # DATA TRANSFORMATION
+
+___
+# DATA MODELLING
+
+___
+
+# ANALYSIS AND VISUALIZATION
+
+___
+# RECOMMENDATION AND CONCLUSION
