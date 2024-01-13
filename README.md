@@ -46,8 +46,11 @@ This report contains 2 pages/ dashboard
 This gives an overview and general information on Operations like Average shipping time, Number of orders handled by the top 5 employees, the impact of discontinued products, etc.
 ![](images/Northwind_operational_analysis_dashboard.PNG)  
 
-# LINK TO DASHBOARD ::: [Northwind Traders Dashboard](https://github.com/Winnie-Ngaji/Northwind-Traders/blob/580a122da57c0a3db695baba9b1d2d87705ffa96/Winnie's_NorthWind_Traders_Sales_Dashboard.pbix)   
+## LINK TO DASHBOARD ::: [Northwind Traders Dashboard](https://github.com/Winnie-Ngaji/Northwind-Traders/blob/580a122da57c0a3db695baba9b1d2d87705ffa96/Winnie's_NorthWind_Traders_Sales_Dashboard.pbix)   
 
-# BUSINESS QUESTIONS AND INSIGHTS
+## BUSINESS QUESTIONS AND INSIGHTS
+### Are there any noticeable sales trends over time?
+
+
 ___
 # RECOMMENDATION AND CONCLUSION
