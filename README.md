@@ -6,7 +6,7 @@ ___
 # INTRODUCTION
 This project involves an in-depth analysis of the sales and order data from Northwind Traders, a fictional gourmet food supplier specializing in the import and export of unique food products from various countries. The dataset contains information on customers, products, orders, shippers, and employees, giving details on the operational dynamics of Northwind Traders. Through this analysis, I aim to derive valuable insights into the company's business trends and customer interactions, contributing to a better understanding of its market presence and operational performance.
 ___
-# PROJECT OBJECTIVE
+# PROJECT OBJECTIVES
 I will be using the provided dataset to understand customer spending patterns and make changes to the companies' sales and operational strategies to improve performance. Specifically, I aim to achieve the following goals:
 
 1. Are there any noticeable sales trends over time?
