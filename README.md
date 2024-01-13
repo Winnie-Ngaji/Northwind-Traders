@@ -1,2 +1,5 @@
 # Northwind-Traders
-Sales and Operational Analysis
+## Sales and Operational Analysis
+## by Winnie Ngaji
+___
+## INTRODUCTION
