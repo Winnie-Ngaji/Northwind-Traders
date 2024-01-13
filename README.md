@@ -31,7 +31,7 @@ After importing the data to Power BI, I did some transformations to add a date t
 
 ___
 # DATA MODELLING
-I have 7 tables and loading the dataset creates an automatic model, but I will be making adjustments to the auto model created by Power BI by changing the 'cross-filter direction' to 'Both' to allow more dynamic filtering. This model can be seen in the schema below
+I have 7 tables and loading the dataset into Power BI creates an automatic model, but I will be making adjustments to the auto model created by Power BI by changing the 'cross-filter direction' to 'Both' to allow more dynamic filtering. This model can be seen in the schema below
 ![](images/Data_Model.PNG)   
 
 ___
