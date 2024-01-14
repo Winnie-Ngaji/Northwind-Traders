@@ -53,7 +53,7 @@ This gives an overview and general information on Operations like Average shippi
 ### Are there any noticeable sales trends over the years?
 ![](images/Sales_trend.PNG)   
   * We can see a steady increase from 2013 to 2014 which is the best year with over $600K in sales, but since then, sales started declining.
-  * April emerged as the standout month, commanding $176,831.635 in sales, while June, conversely, was the worst selling month
+  * April emerged as the standout month, commanding $176,831.635 in sales, while June, conversely, was the worst-selling month
     
 ### 2013 Sales Trend
 ![](images/2013_Sales_Trend.PNG)   
@@ -66,7 +66,7 @@ This gives an overview and general information on Operations like Average shippi
 
 ### Which are the best and worst-selling products?
 ![](images/Best_Selling_Products.PNG)   
-* The top 5 selling products include Cote de Blaye($141k), Thuringer Rostbratwurst($80k), Raclette Courdavault($71k), Tarte au sucre($47k) and Camembert Perrot($47k).
+* The top 5 selling products include Cote de Blaye($141k), Thuringer Rostbratwurst($80k), Raclette Courdavault($71k), Tarte au sucre($47k) and Camembert Perrot($46k).
   
 ![](images/Worst_Selling_Products.PNG)   
 * Chocolade performed suboptimally, generating $1,368.71 in sales.
@@ -94,3 +94,13 @@ This gives an overview and general information on Operations like Average shippi
 
 ___
 # RECOMMENDATION AND CONCLUSION
+* Recognize Margaret Peacock and other top employee's outstanding performance and consider implementing employee recognition programs. Simultaneously, assess and provide targeted training to enhance the skills of all employees.
+* Conduct a comprehensive evaluation of less popular products like the Chocolade's market positioning. Explore rebranding or marketing strategies to enhance its performance. Leverage the success of Cote de Blaye and other best-selling products by identifying and promoting similar high-margin products to maximize overall revenue.
+* Investigate reasons for any details and Implement measures to ensure timely deliveries and maintain consistent shipping times, enhancing overall customer satisfaction. 
+* Capitalize on the popularity of discontinued products like ‘Thuringer Rostbratwurst’ despite being discontinued as it contributes significantly to revenue.
+* Investigate factors contributing to the decline in sales, such as changes in market conditions or customer preferences. Develop strategies to reverse or mitigate this trend, ensuring adaptability to evolving market dynamics.
+* Implement targeted marketing campaigns, promotions, and product launches during April and December which are high-sales periods, and ensure we do not go out of stock in these periods. Analyze factors affecting June sales and develop strategies to boost performance and sales during that period.
+* Tailor marketing strategies to the US and European markets. Implement localization efforts, regional promotions, and product adjustments based on regional preferences to maximize engagement.
+* Strengthen relationships with key customers like 'QUICK stop' through personalized communication, loyalty programs, and exclusive offers. Implement a customer relationship management (CRM) strategy to nurture and expand high-value customer relationships.
+
+
