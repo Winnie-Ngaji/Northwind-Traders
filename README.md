@@ -50,7 +50,7 @@ This gives an overview and general information on Operations like Average shippi
 
 ## BUSINESS QUESTIONS AND INSIGHTS
 ### Are there any noticeable sales trends over time?
-
+![](images/Sales_trend.PNG)   
 
 ___
 # RECOMMENDATION AND CONCLUSION
