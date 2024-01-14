@@ -22,6 +22,7 @@ For this project, I used the following skills and tools;
   ### EXCEL: I leveraged Excel for data cleaning; removing duplicate values, correcting formatting issues, handling missing data through imputation or deletion, and standardizing data formats for consistency, and transformation to ensure data quality.
   
   ### SQL: After cleaning and transforming my data on Excel, I created tables and imported the dataset into Postgresql for further analysis. I Utilized SQL queries to extract relevant information from the Northwind Traders database for in-depth analysis. I also integrated data from multiple tables using SQL join operations to establish meaningful relationships between different datasets.
+![](images/sql_code.PNG)    
   
   ### Power BI: After loading the dataset into Power BI, I used measures and DAX to aggregate the necessary data I needed. I also created an interactive dashboard to answer the business questions stated in the project objective section
 ___
@@ -60,6 +61,26 @@ This gives an overview and general information on Operations like Average shippi
 
 ### 2015 Sales Trend
 ![](images/2015_Sales_Trend.PNG)
+
+### Which are the best and worst-selling products?
+![](images/Best_Selling_Products.PNG)   
+
+![](images/Worst_Selling_Products.PNG)   
+
+### Can you identify any key customers?
+![](images/Key_Customers.PNG)   
+
+### Are shipping costs consistent across providers?
+![](images/Shipping_Cost_by_Shipping_Company.PNG)   
+
+### Assess the sales contributions of individual employees
+![](images/Number_of_Orders_Handled_by_top_5_Employees.PNG)   
+
+### Investigate products that have been discontinued but are still being ordered
+![](images/Impact_of_Discontinued_Products_on_Sales.PNG)    
+
+### Explore the shipping interval from the order date
+![](images/Total_Orders_by_Shipping_Time.PNG)    
 
 ___
 # RECOMMENDATION AND CONCLUSION
