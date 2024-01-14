@@ -49,8 +49,12 @@ This gives an overview and general information on Operations like Average shippi
 ## LINK TO DASHBOARD ::: [Northwind Traders Dashboard](https://github.com/Winnie-Ngaji/Northwind-Traders/blob/580a122da57c0a3db695baba9b1d2d87705ffa96/Winnie's_NorthWind_Traders_Sales_Dashboard.pbix)   
 
 ## BUSINESS QUESTIONS AND INSIGHTS
-### Are there any noticeable sales trends over time?
+### Are there any noticeable sales trends over the years?
 ![](images/Sales_trend.PNG)   
+  * We can see a steady increase from 2013 to 2014 which is the best year with over ### $600K in sales, but since then, sales started declining.
+### 2013 Sales Trend
+### 2014 Sales Trend
+### 2015 Sales Trend
 
 ___
 # RECOMMENDATION AND CONCLUSION
