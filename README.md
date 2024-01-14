@@ -51,10 +51,15 @@ This gives an overview and general information on Operations like Average shippi
 ## BUSINESS QUESTIONS AND INSIGHTS
 ### Are there any noticeable sales trends over the years?
 ![](images/Sales_trend.PNG)   
-  * We can see a steady increase from 2013 to 2014 which is the best year with over $600K in sales, but since then, sales started     declining.
+  * We can see a steady increase from 2013 to 2014 which is the best year with over $600K in sales, but since then, sales started declining.
 ### 2013 Sales Trend
+![](images/2013_Sales_Trend.PNG)   
+
 ### 2014 Sales Trend
+![](images/2014_Sales_Trend.PNG)   
+
 ### 2015 Sales Trend
+![](images/2015_Sales_Trend.PNG)
 
 ___
 # RECOMMENDATION AND CONCLUSION
