@@ -53,6 +53,8 @@ This gives an overview and general information on Operations like Average shippi
 ### Are there any noticeable sales trends over the years?
 ![](images/Sales_trend.PNG)   
   * We can see a steady increase from 2013 to 2014 which is the best year with over $600K in sales, but since then, sales started declining.
+  * April emerged as the standout month, commanding $176,831.635 in sales, while June, conversely, was the worst selling month
+    
 ### 2013 Sales Trend
 ![](images/2013_Sales_Trend.PNG)   
 
@@ -64,23 +66,31 @@ This gives an overview and general information on Operations like Average shippi
 
 ### Which are the best and worst-selling products?
 ![](images/Best_Selling_Products.PNG)   
-
+* The top 5 selling products include Cote de Blaye($141k), Thuringer Rostbratwurst($80k), Raclette Courdavault($71k), Tarte au sucre($47k) and Camembert Perrot($47k).
+  
 ![](images/Worst_Selling_Products.PNG)   
+* Chocolade performed suboptimally, generating $1,368.71 in sales.
 
 ### Can you identify any key customers?
 ![](images/Key_Customers.PNG)   
+* QUICK Stop emerged as a pivotal customer, contributing significantly with a noteworthy $110,277 in purchases.
+* We had 91 customers across 21 different countries of the world with our top 5 sales coming from the USA with $252k, Germany with $242k, Austria with $132k, Brazil with $111k, and France with $88k. 
 
 ### Are shipping costs consistent across providers?
 ![](images/Shipping_Cost_by_Shipping_Company.PNG)   
+* Shipping costs varied between the 3 shipping companies; United Package costs $86, Federal Shipping costs $80 while Speedy Express charges $65 on average
 
 ### Assess the sales contributions of individual employees
 ![](images/Number_of_Orders_Handled_by_top_5_Employees.PNG)   
+* The employee with the most sales was Margaret Peacock with sales worth $232k and overseeing 420 orders.
 
 ### Investigate products that have been discontinued but are still being ordered
 ![](images/Impact_of_Discontinued_Products_on_Sales.PNG)    
+* Despite being discontinued, Thuringer Rostbratwurst generated a substantial $80,368.67 in revenue, suggesting latent market demand.
 
 ### Explore the shipping interval from the order date
 ![](images/Total_Orders_by_Shipping_Time.PNG)    
+* The average shipping time stood at a commendable 8 days. However, notable outliers, where orders surpassed 30 days for delivery, warrant attention for potential operational enhancements.
 
 ___
 # RECOMMENDATION AND CONCLUSION
