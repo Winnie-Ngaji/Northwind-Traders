@@ -22,7 +22,7 @@ For this project, I used the following skills and tools;
   ### EXCEL: I leveraged Excel for data cleaning; removing duplicate values, correcting formatting issues, handling missing data through imputation or deletion, and standardizing data formats for consistency, and transformation to ensure data quality.
   
   ### SQL: After cleaning and transforming my data on Excel, I created tables and imported the dataset into Postgresql for further analysis. I Utilized SQL queries to extract relevant information from the Northwind Traders database for in-depth analysis. I also integrated data from multiple tables using SQL join operations to establish meaningful relationships between different datasets.
-![](images/sql_code.PNG)    
+![](images/sql_code.png)    
   
   ### Power BI: After loading the dataset into Power BI, I used measures and DAX to aggregate the necessary data I needed. I also created an interactive dashboard to answer the business questions stated in the project objective section
 ___
